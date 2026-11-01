@@ -1,0 +1,11 @@
+# WebStorm
+.idea/
+*.iml
+
+# 系统缓存
+.DS_Store
+Thumbs.db
+
+# 其他缓存
+node_modules/
+*.log
